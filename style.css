@@ -1,0 +1,7 @@
+:root{
+    --header-lev-bg: linear-gradient(90deg, rgba(148,229,139,1) 0%, rgba(215, 147, 210, 1) 50%, rgba(133, 116,212, 1)100%);
+    --header-right-bg: rgba(255, 255, 255, .1)
+}
+body{
+    background: var(--header-lev-bg);
+}
